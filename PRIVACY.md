@@ -1,16 +1,19 @@
 # Fenroth Privacy Policy
 Effective: August 25, 2026
 
-Fenroth is an all-ages math adventure for iPhone and iPad. This policy covers the Fenroth app. We are the operator of Fenroth. A separate company entity is not formed yet. This policy still applies.
+Fenroth is an all-ages math adventure for iPhone and iPad. This policy covers the Fenroth iOS app and the Fenroth web play/landing pages. We are the operator of Fenroth. A separate company entity is not formed yet. This policy still applies.
 
 ## Children
 Fenroth is made for kids and families. We do not collect personal information from children. We do not ask for a name, email, phone number, photo, precise location, or contacts. We do not show third-party ads. We do not track users for advertising.
 
 ## What stays on the device
-Hero choice, progress, inventory, quests, and settings live on the device. That data is not sent to our servers.
+Hero choice, progress, inventory, quests, and settings live on the device. That data is not sent to our servers. Web play progress stays in the browser unless the person joins the waitlist.
 
 ## Purchases
 Fenroth Plus is sold through Apple. Apple handles payment under Apple’s terms and privacy policy. We do not receive card numbers. Family Sharing and Ask to Buy, if turned on, are Apple’s parent controls. Restore Purchases uses the Apple ID through Apple, not through us.
+
+## Waitlist (web)
+If a parent or guardian joins the Fenroth web waitlist, we store only that email so we can send a link when the phone version is ready. We do not use it for other marketing. We do not collect a child’s email. You can ask us to delete a waitlist email through the Parent screen in the app, or by using the contact method on this page once one is published.
 
 ## If this changes
 If we later add accounts, cloud sync, analytics, or ads, we will update this policy first. Where the law requires it, we will get verifiable parental consent before collecting personal information from a child.
